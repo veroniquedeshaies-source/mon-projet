@@ -1,3 +1,28 @@
+# --- Windows fichiers temporaires ---
 Thumbs.db
+Desktop.ini
+ehthumbs.db
+*.lnk
+
+# --- Fichiers temporaires génériques ---
 *.tmp
+*.temp
+*.bak
+*.swp
 ~*
+
+# --- OneDrive fichiers de synchronisation ---
+*.tmp.driveupload
+*.tmp.drivedownload
+
+# --- yEd (fichiers de sauvegarde automatiques) ---
+*.graphml~
+*.bak.graphml
+*.backup.graphml
+
+# --- Logs ---
+*.log
+
+# --- Autres caches inutiles ---
+.DS_Store
+
